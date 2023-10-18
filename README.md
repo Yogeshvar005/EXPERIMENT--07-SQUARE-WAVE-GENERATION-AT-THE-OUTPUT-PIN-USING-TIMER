@@ -131,7 +131,7 @@ FREQUENCY = 1/(TOTAL TIME)
 ```
 
 ### FOR PULSE AT 900
-![Uploading image.png…]()
+![image](https://github.com/Yogeshvar005/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/113497367/18b1d83b-469a-4938-b2b6-3a9fa3a8d5d1)
 ```
 TON = 2.88ms
 TOFF= 0.32ms
